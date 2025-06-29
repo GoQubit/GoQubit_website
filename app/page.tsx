@@ -8,22 +8,23 @@ import HeroSection from "@/components/LandingHeroSection/HeroSection"
 import ServicesSection from "@/components/FeatureSeviceSection/ServicesSection"
 import WhyGoqubitSection from "@/components/WhyGoqubitSection/WhyGoqubitSection"
 import WorkSection from "@/components/WorkSection/WorkSection"
+import ComingSoonPage from "@/components/comingSoonPage/ComingSoonPage"
 
 export default function HomePage() {
   return (
     <div className=" min-h-screen w-full overflow-hidden relative">
 
       {/* Hero Section */}
-      <HeroSection />
+      {/* <HeroSection /> */}
 
       {/* feature Service Section */}
-      <ServicesSection />
+      {/* <ServicesSection /> */}
 
       {/* Why GoQubit Section */}
-      <WhyGoqubitSection />
+      {/* <WhyGoqubitSection /> */}
 
 
-      <WorkSection />
+      {/* <WorkSection /> */}
 
 
 
